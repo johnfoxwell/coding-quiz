@@ -9,7 +9,7 @@ This is a quiz game built with Javascript that is meant to be run in the browser
 
 
 ## Screenshot
-![Full page screenshot](./127.0.0.1_5500_repos_coding-quiz_index.html.png)
+![Full page screenshot](./assests/coding-quiz_index.html.png)
 
 
 ## Link
