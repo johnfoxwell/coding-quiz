@@ -1,0 +1,53 @@
+/* Element Selectors */
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: rgb(225, 225, 225);
+}
+
+/* Id Selectors */
+
+
+/* Class Selectors */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.highscore {
+    padding: 15px;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.timer {
+    text-align: right;
+}
+
+/* Add extra padding to headers to be inline with home page */
+.extra {
+    padding-top: 15px;
+}
+.main {
+    margin: 15px;
+    padding: 5px;
+    text-align: center;
+}
+
+.intro {
+    font-size: larger;
+}
+
+.start-button {
+    padding: 10px;
+}
+
+.start-button:hover {
+    background-color: green;
+}
